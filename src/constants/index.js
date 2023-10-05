@@ -175,62 +175,70 @@ const projects = [
       "Web-based platform that used to search for github profiles",
     tags: [
       {
-        name: "react",
+        name: "Git",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Javascript",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "CSS",
         color: "pink-text-gradient",
+      },
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://abhishekhegde2000.github.io/Git-Detective/",
   },
   {
-    name: "Job IT",
+    name: "NetFlix GPT",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Netflix eith Super Powers. Enjoy the power of GPT-3.5 to generate movie recommendations based on your mood.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Redux",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Tailwind CSS",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/abhishekHegde2000/netflix-ai",
   },
   {
-    name: "Trip Guide",
+    name: "Youtube Clone",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Youtube Clone with React JS and Youtube API. Search for videos and watch them.",
     tags: [
       {
-        name: "nextjs",
+        name: "Redux Toolkit",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "React JS",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind css",
         color: "pink-text-gradient",
+      },
+      {
+        name: "Youtube Api",
+        color: "blue-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/abhishekHegde2000/netflix-ai",
   },
 ];
 
