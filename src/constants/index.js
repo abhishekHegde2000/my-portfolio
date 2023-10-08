@@ -238,7 +238,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/abhishekHegde2000/netflix-ai",
+    source_code_link: "https://github.com/abhishekHegde2000/yt-clone",
   },
 ];
 
