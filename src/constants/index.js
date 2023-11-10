@@ -213,7 +213,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/abhishekHegde2000/netflix-ai",
+    source_code_link: "https://github.com/abhishekHegde2000/netflix-gpt",
   },
   {
     name: "Youtube Clone",
