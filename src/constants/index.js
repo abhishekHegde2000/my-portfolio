@@ -126,7 +126,7 @@ const experiences = [
     ],
   },
   {
-    title: "software Intern",
+    title: "Software Intern",
     company_name: "Cognizant Technology Solutions india Pvt Ltd.",
     icon: meta,
     iconBg: "#383E56",
